@@ -35,3 +35,13 @@ Selected Posts:
 * [Readers are our Regulators](http://www.buzzmachine.com/2011/07/11/readers-are-our-regulators/)
 * [To rally, perchance to dream](http://www.buzzmachine.com/2010/10/30/to-rally-perchance-to-dream/)
 
+### [Knight Blog](http://www.knightfoundation.org/blogs/knightblog/)
+Eric Newton's stuff is particularly good on the Knight Foundation Blog:
+* [Where is Press Freedom Headed](http://www.knightfoundation.org/blogs/knightblog/2011/5/2/eric-newton-where-press-freedom-headed/)
+* [Let's get it right with real names in 2012](http://www.knightfoundation.org/blogs/knightblog/2011/10/28/lets-get-it-right-real-names-2012/)
+* [Would nutrition labels work for news](http://www.knightfoundation.org/blogs/knightblog/2011/10/11/would-nutrition-labels-work-news/)
+
+### [MIT Center for Civic Media](http://civic.mit.edu/blog)
+* [Newsboards in Calcutta](http://civic.mit.edu/blog/sdg/old-school-civic-media-newsboards-in-calcutta)
+* [Is Participation Exploitation](http://civic.mit.edu/blog/natematias/is-participation-exploitation)
+* [What if we had a nutrion label for the news](http://civic.mit.edu/blog/mstem/what-if-we-had-a-nutrition-label-for-the-news)
