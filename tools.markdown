@@ -1,3 +1,7 @@
+---
+layout: default
+title: information diet resources
+---
 # Information Dieting Tools
 Information dieting requires an arsenal of tools and tricks -- and while we can constantly peruse sites like [LifeHacker](http://lifehacker.com) to give us an hour by hour dose of productivity porn, sometimes we just need to get straight to brass tacks. This page attempts to collect everything you need in order to set up your system, presuming that you've read [The Information Diet](http://amzn.to/infodiet). It also catalogs other software tools that may be necessary. For many, just installing the software in the QuickStart section will be useful.
 
