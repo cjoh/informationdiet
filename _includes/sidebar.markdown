@@ -19,5 +19,5 @@
 
 <ul>
 <li><a href="/consumption/political.html">Political Infoveganism</a></li>
-<li><a href="/contribute.html">Contribute</a></li>
+<li><a href="/contributing.html">Contribute</a></li>
 </ul>
