@@ -46,12 +46,15 @@ John Tierney is a science columnist for the New York Times and, along with Roy B
 
 ## Jeff Jarvis
 Jeff Jarvis is an associate professor and director of the interactive journalism program and the new business models for news project at the City University of New York’s Gradute School of Journalism. While he’s not directly quoted in this book, his thought leadership around the field of journalism is worth paying attention to.
+
 [Twitter](http://twitter.com/JeffJarvis) &middot; [Google+](https://plus.google.com/105076678694475690385/posts)  &middot; [Website](http://buzzmachine.com)
 
 ## Dan Gillmor
 Dan Gillmor teaches digital media entrepreneurship and is founding director of the Knight Center on Digital Media Entrepreneurship at Arizona State’s Walter Cronkite School of Journalism and Mass Communication. His work is trying to make sense of the new fields of journalism and how the digital industrialization of it can yield new business models.
+
 [Twitter](http://twitter.com/dangillmor)  &middot; [Google+](https://plus.google.com/113210431006401244170/posts) &middot; [Website](http://dangillmor.com)
 
 ## Jim Gilliam
 Jim Gilliam is the consummate civic hacker, using his skills to try and connect people to each other and to the levers of power in their local communities. He’s the founder of 3dna, a start-up in California that builds tools to shake up a political system, most recently NationBuilder, an affordable tool that allows people to organize effectively.
+
 [Twitter](http://twitter.com/jgilliam)  &middot; [Google+](https://plus.google.com/104145741126846873097/posts)  &middot; [Website](http://3dna.us/blog)
