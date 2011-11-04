@@ -12,7 +12,7 @@
 <li><a href="/blogs.html">Blogs</a></li>
 <li><a href="/tools.html">Tools</a></li>
 <li><a href="/books.html">Books</a></li>
-<li><a href="/endnotes.html">Charities</a></li>
+<li><a href="/nonprofits.html">Charities and Projects</a></li>
 </ul>
 
 <h3 id="howtos">Howtos</h3>
