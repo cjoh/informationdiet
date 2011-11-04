@@ -2,6 +2,8 @@
 layout: default
 title: Blogs for a Healthy Information Diet
 ---
+# Blogs
+The information in [The Information Diet](http://amzn.to/infodiet) isn't new. It's been talked about for years by lots of amazing writers and experts. Here are just a few places online that are discussing healthy information consumption habits and the role media plays in that equation.
 
 ## About the Brain
 
