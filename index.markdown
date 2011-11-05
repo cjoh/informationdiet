@@ -1,8 +1,10 @@
 ---
 layout: default
-title: information diet resources
+title: Resources for Information Dieting
 ---
-# Resources
+
+<span class="head">Resources</span>
+
 The Information Diet is meant to be the start of a conversation and the start of an effort to discover how to have a healthy relationship with the information we consume. Just like a food diet, there’s not an information diet that works for everyone. Here are some resources you can use to build a diet that works for you.
 
 ## Community Forum

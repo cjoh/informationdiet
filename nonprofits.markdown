@@ -2,7 +2,8 @@
 layout: default
 title: Charities helping to improve the nation's Information Diet
 ---
-# Charities
+<span class="head">Charities and Projects</span>
+
 Below are a list of organizations that are making it easier for people to go on information diets, organizations that are improving access to healthy information, and organizations that are supporting and sustaining healthy information lifestyles. When available, each non-profit's 990 from [GuideStar](http://guidestar.org) is included so that you can judge how they're spending their money to see if their values align with your own.
 
 ## [CodeNow.org](http://codenow.org)

@@ -2,7 +2,9 @@
 layout: default
 title: People Involved With an Information Diet
 ---
-# The People
+
+<span class="head">People</span>
+
 Part of what's prescribed in [The Information Diet](http://amzn.to/infodiet) is to get beyond secondary sources and straight to the details. The irony is, the book itself *is* a secondary source. A lot of what's in the book come from the work and actions of the people mentioned in it, and from others who influenced it. Thanks to the innovations of social media, we can now see directly what those people have to say and hear things directly from them. 
 
 ## Matt Cutts

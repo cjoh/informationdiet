@@ -18,6 +18,7 @@
 <h3 id="howtos">Howtos</h3>
 
 <ul>
-<li><a href="/consumption/political.html">Political Infoveganism</a></li>
+<li><a href="/consumption/politics.html">Politics for Infovegans</a></li>
+<li><a href="/consumption/investing.html">Investing for Infovegans</a></li>
 <li><a href="/contributing.html">Contribute</a></li>
 </ul>

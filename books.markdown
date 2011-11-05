@@ -2,7 +2,9 @@
 layout: default
 title: Suggested Reading
 ---
-# Books
+
+<span class="head">Books</span>
+
 [The Information Diet](http://amzn.to/infodiet) isn't the only book involved in the discourse of information health. Check out some of the other books from the field.
 
 <center>
