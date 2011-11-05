@@ -47,3 +47,5 @@ Eric Newton's stuff is particularly good on the Knight Foundation Blog:
 * [Newsboards in Calcutta](http://civic.mit.edu/blog/sdg/old-school-civic-media-newsboards-in-calcutta)
 * [Is Participation Exploitation](http://civic.mit.edu/blog/natematias/is-participation-exploitation)
 * [What if we had a nutrion label for the news](http://civic.mit.edu/blog/mstem/what-if-we-had-a-nutrition-label-for-the-news)
+
+_Note: It's depressing that this list contains such little diversity. Please, if there's more to add here, consider [adding those resources](/contributing.html)_
