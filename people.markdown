@@ -10,6 +10,16 @@ Matt Cutts is the head of the web-spam team at Google, the person with the job o
 
 [Twitter](http://twitter.com/mattcutts) &middot; [Google+](https://plus.google.com/109412257237874861202/posts)  &middot; [http://mattcutts.com](http://mattcutts.com)
 
+## danah boyd
+danah boyd is a senior researcher at Microsoft Research, who -- at Gov2.0 Expo in 2010, spoke on the [relationship between transparency and obesity](http://www.danah.org/papers/talks/2010/Gov2Expo.html)
+
+[Twitter](http://twitter.com/zephoria) &middot; [Google+](https://plus.google.com/115565811010545226083/posts) &middot; [Blog](http://www.zephoria.org/thoughts/)
+
+## Susan Crawford
+Susan Crawford is a law professor at the Cardozo Law School in New York City. Her work with net neutrality and universal broadband and the [parallels between what's happening now in telecommunications and what happened with the railroads](http://techpresident.com/blog-entry/susan-crawford-pdf-10-rethinking-broadband) are very similar to my own work with the parallels between agribusiness and media. 
+
+[Twitter](http://twitter.com/scrawford) &middot; [Google+](https://plus.google.com/104371545065236340763/posts) &middot; [Website](http://scrawford.net/blog/)
+
 ## Marco Iacaboni
 Dr. Iacaboni’s insight on the consequences of neuroplasticity and how we affect each other is tremendously important to follow.
 
