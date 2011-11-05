@@ -4,7 +4,6 @@ title: Suggested Reading
 ---
 # Books
 [The Information Diet](http://amzn.to/infodiet) isn't the only book involved in the discourse of information health. Check out some of the other books from the field.
-<center>
 <table id="books" class="library"><tr><td>
 <a href="http://www.amazon.com/gp/product/0061353248/ref=as_li_ss_il?ie=UTF8&tag=clayworld-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0061353248"><img border="0" src="http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&Format=_SL160_&ASIN=0061353248&MarketPlace=US&ID=AsinImage&WS=1&tag=clayworld-20&ServiceVersion=20070822" ></a><img src="http://www.assoc-amazon.com/e/ir?t=clayworld-20&l=as2&o=1&a=0061353248&camp=217145&creative=399369" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></td>
 <td>
@@ -59,4 +58,3 @@ title: Suggested Reading
 	<a href="http://www.amazon.com/gp/product/0865477388/ref=as_li_ss_il?ie=UTF8&tag=clayworld-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0865477388"><img border="0" src="http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&Format=_SL160_&ASIN=0865477388&MarketPlace=US&ID=AsinImage&WS=1&tag=clayworld-20&ServiceVersion=20070822" ></a><img src="http://www.assoc-amazon.com/e/ir?t=clayworld-20&l=as2&o=1&a=0865477388&camp=217145&creative=399369" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </td></tr>
 </table>
-</center>
