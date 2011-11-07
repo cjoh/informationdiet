@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Tools for going on an Information Diet
+parent: /
+parenttitle: Resources
 ---
 
 <span class="head">Tools</span>

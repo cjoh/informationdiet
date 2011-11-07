@@ -1,6 +1,8 @@
 ---
 layout: default
 title: How to Contribute to the Information Diet
+parent: /
+parenttitle: Resources
 ---
 # How to Contribute to this Website
 The resources section of [InformationDiet.com](http://informationdiet.com) is a [publicly available github repository](https://github.com/cjoh/informationdiet/tree/gh-pages). This means you can fork, edit, and contribute back your own resources. Have a great blog that readers and information dieters should know about? Think there's a great voice that needs to be listened to? Add it!

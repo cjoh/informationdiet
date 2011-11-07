@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Charities helping to improve the nation's Information Diet
+parent: /
+parenttitle: Resources
 ---
 <span class="head">Charities and Projects</span>
 

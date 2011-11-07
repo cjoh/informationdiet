@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Resources for Information Dieting
+parent: http://www.informationdiet.com
+parenttitle: home
 ---
 
 <span class="head">Resources for a Healthy Information Diet</span>

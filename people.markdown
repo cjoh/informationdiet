@@ -1,6 +1,8 @@
 ---
 layout: default
 title: People Involved With an Information Diet
+parent: /
+parenttitle: Resources
 ---
 
 <span class="head">People</span>

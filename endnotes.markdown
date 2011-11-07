@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Endnotes from the Information Diet
+parent: /
+parenttitle: Resources
 ---
 # Endnotes from [The Information Diet](http://amzn.to/infodiet)
 

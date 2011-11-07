@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Blogs for a Healthy Information Diet
+parent: /
+parenttitle: Resources
 ---
 
 <span class="head">Blogs</span>

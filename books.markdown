@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Suggested Reading
+parent: /
+parenttitle: Resources
 ---
 
 <span class="head">Books</span>
