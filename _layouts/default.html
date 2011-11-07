@@ -6,31 +6,16 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>The Information Diet | {{ page.title }}</title>
+    <title>Information Diet | Blog</title>
 	<meta name="viewport" content="width=device-width,initial-scale=1">
-	<link rel="stylesheet" href="http://informationdiet.fissiondev.com/resource/css/style.css">
-	<script src="http://informationdiet.fissiondev.com/resource/js/libs/modernizr-2.0.6.min.js"></script>
+	<link rel="stylesheet" href="/resource/css/style.css">
+	<script src="/resource/js/libs/modernizr-2.0.6.min.js"></script>
 </head>
 <body>
-	<style>
-	header .button-gold {
-		float: right;
-		padding: 0 28px;
-		position: relative;
-		text-decoration: none;
-		color: #fff;
-		text-transform: uppercase;
-		font: 18px/42px HelveticaNeueLTStd-MdCn, Arial, Helvetica, sans-serif;
-		background: #EE7600;
-	}
-	header .button-gold:hover {
-		background: #FB9E4B;
-	}
-	</style>
+<div id="all">
 <script type="text/javascript">
 var _sf_startpt=(new Date()).getTime()
 </script>
-
 <div class="account_module" id="signup_slidedown" style="position: relative; display: none; color: white">                           
             <div id="sign_in_dropdown" style="top: 140px; position: absolute; left: 50%; margin-left: -155px; z-index: 10000;"></div>          
           </div>  
@@ -38,17 +23,16 @@ var _sf_startpt=(new Date()).getTime()
 
 <div id="container">
 <header>
-    <h1 class="site-name"><a title="Go to homepage" href="http://informationdiet.fissiondev.com/">The Information Diet</a></h1>
-    <a class="button-red" href="http://informationdiet.fissiondev.com/diet">Go on the diet</a>
-    <a class="button-blue" href="http://www.amazon.com/Information-Diet-Case-Conscious-Consumption/dp/1449304680/ref=sr_1_1?ie=UTF8&qid=1319741855&sr=8-1">Buy the Book</a>
-	<a class="button-gold" href="https://github.com/cjoh/informationdiet/tree/gh-pages">Fork This on Github</a>
+    <h1 class="site-name"><a title="Go to homepage" href="/">The Information Diet</a></h1>
+    <a class="button-red" href="/diet">Go on the diet</a>
+    <a class="button-blue" href="http://amzn.to/vWWtIe">Buy the Book</a>
         <nav id="navigation">
         <ul>
-                                                <li><a href="http://informationdiet.fissiondev.com/">Home</a></li>
-                                                <li><a href="http://informationdiet.fissiondev.com/blog">Blog</a></li>
-                                                <li class="active"><a href="http://informationdiet.fissiondev.com/resources">Reader Resources</a></li>
-                                                                            <li><a href="/about">About Clay</a></li>
-                                                <li><a href="http://informationdiet.fissiondev.com/events">Events</a></li>
+                                                <li><a href="/">Home</a></li>
+                                                                            <li class="active"><a href="/blog">Blog</a></li>
+                                                <li><a href="/resources">Reader Resources</a></li>
+                                                <li><a href="/about">About Clay</a></li>
+                                                <li><a href="/events">Events</a></li>
         
         </ul>
     </nav>
@@ -60,41 +44,30 @@ var _sf_startpt=(new Date()).getTime()
     <div id="main" role="main">
         <div class="content">
 
-            <div class="content">
-    <div class="basic-page">
+            <div class="blog-page">
+    <div class="share">
 
-            <div class="share">
-    <div class="fb-like" style="float: left;" data-href="http://informationdiet.fissiondev.com/" data-send="false" data-layout="button_count" data-width="5" data-show-faces="false"></div>
-<div style="float: left; margin-right: 35px;">
-        <a href="https://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a><script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+<span class='st_fblike_hcount'></span>
+<span class='st_twitter_hcount'></span>
+<span class='st_plusone_hcount'></span>
+<span class='st_email_hcount'></span>
+<!--span class='st_sharethis_hcount'></span-->
+
+
 </div>
-<div style="float: left;">
-    <g:plusone annotation="inline" width="120"></g:plusone>
-</div>
-    </div>
 {{ content }}
-
-   </div>
-    <!-- // basic-page -->
-                            
-    <footer>
-    <strong><a href="https://github.com/cjoh/informationdiet/tree/gh-pages">This is a github project that you can contribute to.</a></strong>
-    <span>&copy; 2011 Clay Johnson</span>
-</footer>
-<!-- // footer -->
-
 </div>
-<!-- // content -->
+<!-- // blog-page -->
+
 
         </div>
         <!-- // content -->
-		        <div class="sidebar">
-		    <div class="blog-sidebar">
+        <div class="sidebar">
+    <div class="blog-sidebar">
 {% include sidebar.markdown %}
-		            </div>
-		</div>
-		<!-- // sidebar -->
-
+            </div>
+</div>
+<!-- // sidebar -->
     </div>
     <!-- // main -->
 
@@ -102,11 +75,11 @@ var _sf_startpt=(new Date()).getTime()
 <!-- // container -->
 
 
-<script src="http://informationdiet.fissiondev.com/resource/js/libs/jquery-1.6.2.min.js"></script>
+<script src="/resource/js/libs/jquery-1.6.2.min.js"></script>
 <!-- scripts concatenated and minified via ant build script-->
-<script src="http://informationdiet.fissiondev.com/resource/js/plugins.js"></script>
-<script src="http://informationdiet.fissiondev.com/resource/js/script.js"></script>
-<script type="text/javascript" src="http://informationdiet.fissiondev.com/resource/account/js/account.js?v=42456"></script> 
+<script src="/resource/js/plugins.js"></script>
+<script src="/resource/js/script.js"></script>
+<script type="text/javascript" src="/resource/account/js/account.js?v=1"></script> 
 <div id="fb-root"></div>
 <script>
 (function(d, s, id) {
@@ -138,8 +111,11 @@ connect_create_redirect = "";
     (function() {    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);  })();
 </script>
 
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "a04631d5-3455-4139-ad8e-28c17be25aa2"}); </script>
 
 <!-- end scripts-->
-
+</div>
+    <a class="home-btn" href="/">Home</a>
 </body>
 </html>
