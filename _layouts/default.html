@@ -6,28 +6,22 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Information Diet | {{ post.title }}</title>
+    <title>The Information Diet | {{ page.title }}</title>
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<link rel="stylesheet" href="http://www.informationdiet.com/resource/css/style.css">
 	<script src="http://www.informationdiet.com/resource/js/libs/modernizr-2.0.6.min.js"></script>
 </head>
 <body>
-	<style>
-		header .button-gold {
-			float: right;
-			padding: 0 28px;
-			position: relative;
-			text-decoration: none;
-			color: #fff;
-			text-transform: uppercase;
-			font: 18px/42px HelveticaNeueLTStd-MdCn, Arial, Helvetica, sans-serif;
-			background: #EE7600;
-		}
-		header .button-gold:hover {
-			background: #FB9E4B;
-		}
-		</style>
 <div id="all">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) {return;}
+          js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
 <script type="text/javascript">
 var _sf_startpt=(new Date()).getTime()
 </script>
@@ -38,17 +32,16 @@ var _sf_startpt=(new Date()).getTime()
 
 <div id="container">
 <header>
-    <h1 class="site-name"><a title="Go to homepage" href="/">The Information Diet</a></h1>
-    <a class="button-red" href="/diet">Go on the diet</a>
+    <h1 class="site-name"><a title="Go to homepage" href="http://www.informationdiet.com/">The Information Diet</a></h1>
+    <a class="button-red" href="http://www.informationdiet.com/diet">Go on the diet</a>
     <a class="button-blue" href="http://amzn.to/vWWtIe">Buy the Book</a>
-	<a class="button-gold" href="https://github.com/cjoh/informationdiet/tree/gh-pages">Fork This on Github</a>
         <nav id="navigation">
         <ul>
                                                 <li><a href="http://www.informationdiet.com/">Home</a></li>
-                                                                            <li class="active"><a href="http://www.informationdiet.com/blog">Blog</a></li>
-                                                <li><a href="http://resources.google.com">Reader Resources</a></li>
-                                                <li><a href="http://www.informationdiet.com">About Clay</a></li>
-                                                <li><a href="http://www.informationdiet.com">Events</a></li>
+                                                                            <li><a href="http://www.informationdiet.com/blog">Blog</a></li>
+                                                <li class="active"><a href="/resources">Reader Resources</a></li>
+                                                <li><a href="http://www.informationdiet.com/about">About Clay</a></li>
+                                                <li><a href="http://www.informationdiet.com/events">Events</a></li>
         
         </ul>
     </nav>
@@ -56,7 +49,7 @@ var _sf_startpt=(new Date()).getTime()
 
 </header>
 
-    <div></div>
+    
     <div id="main" role="main">
         <div class="content">
 
@@ -71,10 +64,9 @@ var _sf_startpt=(new Date()).getTime()
 
 
 </div>
-
 {{ content }}
 </div>
-<!-- // blog-page -->
+
 
 
         </div>
