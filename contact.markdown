@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: contact
 title: Contact Clay Johnson
 parent: /
 parenttitle: Resources
