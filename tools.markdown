@@ -50,6 +50,10 @@ OS X: [Concentrate](http://getconcentrating.com/) is a compelling application th
 
 OS X, Windows: [Freedom](http://macfreedom.com/) locks the Internet down on your mac or windows computer for up to 8 hours. You turn it on, and you cannot get the Internet back until the timer is finished unless you reboot your computer.
 
+OS X: [SelfControl](http://visitsteve.com/made/selfcontrol/) lets you lock down parts of the internet while leaving the rest open for useful work.  Cannot be stopped by killing the app, deleting it, or even rebooting.  You actually have to wait for the timer to end.  
+
+OS X: [Time Sink](http://manytricks.com/timesink/) is a an application that tracks how you use applications on your Mac.  Like RescueTime, it stores window titles and the time spent with them, but it does it locally.  Might be an option for people who don't want their data on someone else's server.
+
 Python, PHP: [Get Shit Done](https://github.com/leftnode/get-shit-done) - For the command-line types out there, Get Shit Done is a small command line program that blocks websites known to distract us from our work. Configurable by an easy to edit text file.
 
 *Disclosure: Clay Johnson, author of [The Information Diet](http://amzn.to/infodiet) went to college with one of the employees of SaneBox.
