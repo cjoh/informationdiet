@@ -11,7 +11,6 @@ parenttitle: Resources
 
 <h3 id="twittv8217s_triantulation"><a href="http://twit.tv/show/triangulation/38">TWiT.tv&#8217;s Triantulation</a></h3>
 
-<iframe src="http://twit.tv/embed/10561" width="640" height="320" scrolling="no" marginwidth="0" marginheight="0" hspace="0" align="middle" frameborder="0"></iframe>
 
 <h3 id="npr8217s_weekend_edition"><a href="http://www.npr.org/2012/01/14/145101748/is-it-time-for-you-to-go-on-an-information-diet">NPR&#8217;s Weekend Edition</a></h3>
 
