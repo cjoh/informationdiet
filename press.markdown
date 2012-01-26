@@ -19,8 +19,10 @@ parenttitle: Resources
 ### [Dr. Alvin's The Business of Wisdom](http://dralvin.com)
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F34599008&show_artwork=true"></iframe>
 
-## [Strategies for Living](http://strategiesforliving.com)
+### [Strategies for Living](http://strategiesforliving.com)
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F34599665&show_artwork=true"></iframe>
+
+### [Kojo Nnamdi Show](http://thekojonnamdishow.org/shows/2011-12-20/information-diet-new-year)
 
 ## Print
 * Santa Rosa Press Democrat: [Take a Break from electronic rat race](http://www.pressdemocrat.com/article/20120115/LIFESTYLE/120119818)
