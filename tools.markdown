@@ -62,4 +62,6 @@ OS X: [Time Sink](http://manytricks.com/timesink/) is a an application that trac
 
 Python, PHP: [Get Shit Done](https://github.com/leftnode/get-shit-done) - For the command-line types out there, Get Shit Done is a small command line program that blocks websites known to distract us from our work. Configurable by an easy to edit text file.
 
+Web app: [Likehack](http://likehack.com) - information diet tool that removes the junk from your Facebook and Twitter feed and makes them worth reading (bu filtering bla bla posts, Instagram photos, lolcats and keywords you don't like).
+
 *Disclosure: Clay Johnson, author of [The Information Diet](http://amzn.to/infodiet) went to college with one of the employees of SaneBox.
